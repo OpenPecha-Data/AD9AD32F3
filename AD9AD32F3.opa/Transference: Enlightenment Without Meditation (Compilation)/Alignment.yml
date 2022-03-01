@@ -1,0 +1,19 @@
+segment_sources:
+  PE44ACA48:
+    type: origin_type
+    relation: translation
+    language: en
+  P37B07BA3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  acd3c0ea67984e0a99fce7bca22cf56f:
+    PE44ACA48: 841ff054ef10409aae83e451096aa482
+    P37B07BA3: f6d5b801c1f24511b9ff0de953ccea55
+  45076a4bcb4b4bfc80f93dd3ffbd2d61:
+    PE44ACA48: b9177c2c171341cd8563ce3d7b8e420d
+    P37B07BA3: b720d994cbdf4071b776bed6408d0a76
+  f47f9d659ae647bc9763c9a7013c1c6e:
+    PE44ACA48: 42f61c87c9ae4a79a3e62a4c489efa1a
+    P37B07BA3: c9657789d48c455f8c72342985af2c1a

@@ -1,0 +1,26 @@
+segment_sources:
+  PE44ACA48:
+    type: origin_type
+    relation: translation
+    language: en
+  PAC36FBF1:
+    type: origin_type
+    relation: translation
+    language: fr
+  P37B07BA3:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  80be3a97fbbe4ff0afdfeebd82b50743:
+    PE44ACA48: 39e3631d235f4139aad8596d1415070a
+    PAC36FBF1: acded3ed10d44c38992ac8a08cda3332
+    P37B07BA3: 0167af29ffa14281bd540d281891ffe6
+  93ad425b72ad4d5a863ab92c37962b3e:
+    PE44ACA48: 37f0b447cf8441acbae204cc416e894f
+    PAC36FBF1: 278314ba04a149b496fef85fff04ddf2
+    P37B07BA3: 6e15115facc64a3b9e71d5857905253d
+  80fafec849fd4c7a924a4e85d9ff31cb:
+    PE44ACA48: e1868f2e0b0b457196771e4f8f3b3184
+    PAC36FBF1: d56a334163d14f55ae27cace68f2bdad
+    P37B07BA3: 27a991defd1443d7858720d0267bb13c
